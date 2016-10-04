@@ -16,7 +16,7 @@ public class QQActivity extends AppCompatActivity implements IUiListener {
 
     private Tencent mTencent;
 
-    private String APP_ID = "101351691";
+    private String APP_ID = "你自己的ID";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
