@@ -29,7 +29,7 @@ import static com.tencent.mm.sdk.modelmsg.SendMessageToWX.Req.WXSceneTimeline;
 public class WXEntryActivity extends AppCompatActivity implements IWXAPIEventHandler {
 
 
-    private String APP_ID = "wx6eec3491d158eba8";
+    private String APP_ID = "你自己的ID";
 
     private IWXAPI iwxapi;
 
