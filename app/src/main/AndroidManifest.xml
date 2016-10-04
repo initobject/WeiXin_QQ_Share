@@ -46,7 +46,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:scheme="tencent101351691" />
+                <data android:scheme="tencent(加入你自己的ID，不包括括号)" />
             </intent-filter>
         </activity>
 
